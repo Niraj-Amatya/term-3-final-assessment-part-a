@@ -1,4 +1,4 @@
-Project Name
+Homemade Meals
 
 **Table Of Contents**
 - [1. Description of your website](#1-description-of-your-website)
@@ -104,7 +104,8 @@ Apart from this group, anyone who is passionate about food and would like to tas
 - Node.js: Server side run time.
 - Express: Web server to serve backend api and frontend of the app.
 - MongoDB: Document data storage to persist state of the app for various users.
-- Mongoose: ORM to help communicate with MongoDB through MongoDB drivers.
+- Mongoose: Object Data Modeling (ODM) library to help communicate with MongoDB through MongoDB drivers.
+- MongoDB Atlas: Cloud based database hosting service for MongoDB.
 - Passport.js: Authentication middleware for Node.js to authenticate various users of the app.
 - SASS: CSS Preprocessor to help keep CSS stylings of the app organized.
 - Bootstrap: Framework to build responsive mobile first UI of the app.
@@ -113,6 +114,9 @@ Apart from this group, anyone who is passionate about food and would like to tas
 - JavaScript: Used both at server side and client side the program application logic.
 - Netlify: To host frontend of the app so that it can be accessed by various users of the app over internet.
 - Heroku: To host backend api of the app so that it can be accessed by app over the internet.
+- Mocha: JavaScript based test framework running on Node.js used to run Unit tests.
+- Expect: Assertion library used to verify outcome of unit tests.
+- Cypress: JavaScript based End to End testing framework.
 - GitHub: To host source code of the app for collaboration and source management using Git.
 - Git: Used for source code management.
 
@@ -205,7 +209,7 @@ There are two main users that will interact with our app. They are the store own
 
 The project will be developed using agile methodology. There are total four sprints planned, each of them being one week in duration. The first sprint is dedicated to inception, planning, and documentation. Remaining three sprints are dedicated to build in that one by one all the planned features of the project will be developed and deployed.
 
-Trello board is used for planning and tracking of various tasks. The Trello board used for planning and project management can be found [here](https://trello.com/b/ZyIY1qj8/term-3-final-assessment-part-a)
+Trello board is used for planning and tracking of various tasks. The Trello board used for planning and project management can be found [here](https://trello.com/b/ZyIY1qj8/homemade-meals)
 
 Below screen prints shows state of tasks in various stages of the project.
 
